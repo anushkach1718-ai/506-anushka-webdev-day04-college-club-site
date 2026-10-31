@@ -79,5 +79,4 @@ This project was developed as part of the Day 04 Web Development Assignment. The
 
 **Thank you for visiting Campus Connect!**
 ## 📸 Website Preview
-
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f70db90f-86d1-4485-9a5a-12c5f54e4592" />
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9c19e000-cf5b-438f-a1f0-c835b6fa57ac" />
